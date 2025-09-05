@@ -28,6 +28,7 @@ The project covers the full analytics lifecycle from **EDA** to **strategic reco
 ---
 
 ## 📂 Repository Structure 
+
 TravelTide-Mastery-Project/
 │
 ├── LICENSE # MIT License file
