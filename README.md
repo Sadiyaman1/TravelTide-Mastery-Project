@@ -30,9 +30,8 @@ The project covers the full analytics lifecycle from **EDA** to **strategic reco
 ## 📂 Repository Structure
 TravelTide-Mastery-Project/
 │
-├── LICENSE              # MIT license file
-├── Mastery_Project.ipynb # Dein zentrales Jupyter Notebook
-├── README.md            # Projektbeschreibung (Markdown)
+├── LICENSE # MIT License file
+├── Mastery_Project.ipynb # Main Jupyter Notebook (analysis & workflow)
 
 ---
 
